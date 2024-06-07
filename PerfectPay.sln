@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectPay", "PerfectPay\PerfectPay.csproj", "{18430776-C45F-49BC-9F18-75BCC9D1DF8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18430776-C45F-49BC-9F18-75BCC9D1DF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18430776-C45F-49BC-9F18-75BCC9D1DF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18430776-C45F-49BC-9F18-75BCC9D1DF8B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{18430776-C45F-49BC-9F18-75BCC9D1DF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18430776-C45F-49BC-9F18-75BCC9D1DF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18430776-C45F-49BC-9F18-75BCC9D1DF8B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DD2427F-63A8-4C32-BC06-2A4A10CD90A9}
+	EndGlobalSection
+EndGlobal

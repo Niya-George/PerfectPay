@@ -1,0 +1,1 @@
+C:\Users\P10\source\repos\PerfectPay\PerfectPay\PerfectPay.csproj;x64
